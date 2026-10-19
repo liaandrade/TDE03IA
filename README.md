@@ -1,10 +1,10 @@
 # TDE 03: Construção do Baseline e Avaliação de Modelos de Regressão
 
-Este repositório contém a entrega da atividade **TDE 01** desenvolvida para a disciplina de Aprendizado de Máquina. O objetivo do projeto é construir e avaliar o **baseline** de modelos preditivos sem otimizações avançadas de hiperparâmetros, servindo como ponto de partida para futuras comparações.
+Este repositório contém a entrega da atividade **TDE 03** desenvolvida para a disciplina de Aprendizado de Máquina. O objetivo do projeto é construir e avaliar o **baseline** de modelos preditivos sem otimizações avançadas de hiperparâmetros, servindo como ponto de partida para futuras comparações.
 
 ---
 
-## 📌 Tema e Contexto do Projeto
+##  Tema e Contexto do Projeto
 
 - **Tema:** Previsão de Consumo de Energia Elétrica Residencial (kWh).
 - **Tipo de Problema:** Regressão (previsão de variável numérico-contínua).
@@ -19,7 +19,7 @@ Este repositório contém a entrega da atividade **TDE 01** desenvolvida para a 
 
 ---
 
-## 👥 Integrantes e Estrutura dos Notebooks
+##  Integrantes e Estrutura dos Notebooks
 
 O projeto foi construído de forma **acumulativa (em escada)**. Cada integrante desenvolveu e aprofundou uma etapa específica do pipeline de dados, garantindo que cada notebook execute sozinho do início ao fim.
 
@@ -36,9 +36,9 @@ O projeto foi construído de forma **acumulativa (em escada)**. Cada integrante 
 
 ---
 
-## 🚨 OBSERVAÇÃO IMPORTANTE PARA A AVALIAÇÃO / PROFESSOR
+##  OBSERVAÇÃO IMPORTANTE PARA A AVALIAÇÃO / PROFESSOR
 
-> ⚠️ **Nota ao Professor:**
+>  **Nota ao Professor:**
 > 
 > Como a estrutura dos notebooks foi desenvolvida de forma **acumulativa**, **cada notebook engloba e executa o código de todas as etapas anteriores a ele**.
 >
@@ -48,7 +48,7 @@ O projeto foi construído de forma **acumulativa (em escada)**. Cada integrante 
 
 ---
 
-## 🛠️ Requisitos e Como Executar
+##  Requisitos e Como Executar
 
 ### Pré-requisitos
 Certifique-se de ter o Python 3.x instalado juntamente com as seguintes bibliotecas:
