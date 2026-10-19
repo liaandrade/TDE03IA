@@ -1,4 +1,4 @@
-# TDE 01: Construção do Baseline e Avaliação de Modelos de Regressão
+# TDE 03: Construção do Baseline e Avaliação de Modelos de Regressão
 
 Este repositório contém a entrega da atividade **TDE 01** desenvolvida para a disciplina de Aprendizado de Máquina. O objetivo do projeto é construir e avaliar o **baseline** de modelos preditivos sem otimizações avançadas de hiperparâmetros, servindo como ponto de partida para futuras comparações.
 
